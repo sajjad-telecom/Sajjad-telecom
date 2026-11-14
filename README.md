@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Sajjad 👋
 
-<!--
-**sajjad-telecom/Sajjad-telecom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electrical Engineer | Telecommunications Systems MSc Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Electrical Engineer with experience in electrical power distribution and network design, currently pursuing a Master's degree in Telecommunications Systems.
+
+My main research interest is the application of **Artificial Intelligence and Machine Learning in Smart Electrical Grids**.
+
+## 🔬 Research Interests
+
+- Artificial Intelligence in Power Systems
+- Smart Electrical Grids
+- Machine Learning (ML)
+- Deep Learning
+- Intelligent Distribution Networks
+- Renewable Energy Integration
+- Distributed Generation
+- Smart Grid Monitoring and Fault Detection
+- Power System Optimization
+
+## 💻 Technical Skills & Learning
+
+- Python (Beginner – Currently Learning)
+- MATLAB (Learning)
+- Machine Learning Fundamentals
+- Electrical Power Distribution
+- Telecommunications Engineering
+- Power System Analysis
+
+## 🎯 Current Goals
+
+- Improve Python programming skills.
+- Learn practical Machine Learning techniques.
+- Explore AI applications in electrical distribution networks.
+- Study intelligent fault detection and network monitoring.
+- Investigate renewable energy integration in smart grids.
+- Develop practical engineering and research projects.
+
+## 📚 Research Focus
+
+**Artificial Intelligence + Machine Learning + Smart Electrical Grids**
+
+## 🤝 Collaboration
+
+Interested in academic research, engineering projects, and collaboration in AI-driven energy systems and smart grid technologies.
+
+Thanks for visiting my profile! ⚡
