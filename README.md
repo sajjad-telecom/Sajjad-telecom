@@ -29,3 +29,16 @@ Exploring the applications of AI and Machine Learning in Wireless Communication 
 ### 🎯 Academic Goal
 Developing knowledge and research skills in next-generation wireless communication technologies.
 
+
+## 🧠 Research & Technical Skills
+
+![Wireless Communications](https://img.shields.io/badge/Wireless-Communications-blue)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial-Intelligence-purple)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![5G](https://img.shields.io/badge/5G-Networks-orange)
+![6G](https://img.shields.io/badge/6G-Research-red)
+![Telecommunications](https://img.shields.io/badge/Telecommunications-Engineering-blue)
+
+## 📡 Research Focus
+
+AI and Machine Learning applications in next-generation wireless communication systems.
