@@ -1,49 +1,31 @@
 # Hi, I'm Sajjad 👋
 
-### Electrical Engineer | Telecommunications Systems MSc Student
+### Telecommunications Engineer | MSc Student
 
 Welcome to my GitHub profile!
 
-I'm an Electrical Engineer with experience in electrical power distribution and network design, currently pursuing a Master's degree in Telecommunications Systems.
+I am interested in telecommunications engineering, wireless communications, artificial intelligence, and machine learning.
 
-My main research interest is the application of **Artificial Intelligence and Machine Learning in Smart Electrical Grids**.
-
-## 🔬 Research Interests
-
-- Artificial Intelligence in Power Systems
-- Smart Electrical Grids
+### 🔬 Research Interests
+- Wireless Communications
+- Artificial Intelligence (AI)
 - Machine Learning (ML)
-- Deep Learning
-- Intelligent Distribution Networks
-- Renewable Energy Integration
-- Distributed Generation
-- Smart Grid Monitoring and Fault Detection
-- Power System Optimization
+- 5G and 6G Networks
+- Signal Processing
+- Wireless Network Optimization
 
-## 💻 Technical Skills & Learning
+### 📚 Current Research
+Exploring the applications of AI and Machine Learning in Wireless Communication Systems.
 
-- Python (Beginner – Currently Learning)
-- MATLAB (Learning)
-- Machine Learning Fundamentals
+### 🛠️ Technical Interests
+- Telecommunications Systems
 - Electrical Power Distribution
-- Telecommunications Engineering
-- Power System Analysis
+- Network Design
+- AI-driven Communication Technologies
 
-## 🎯 Current Goals
+### 📂 Research Projects
+- [Wireless AI & ML Research](https://github.com/Sajjad-telecom/wireless-ai-ml-research)
 
-- Improve Python programming skills.
-- Learn practical Machine Learning techniques.
-- Explore AI applications in electrical distribution networks.
-- Study intelligent fault detection and network monitoring.
-- Investigate renewable energy integration in smart grids.
-- Develop practical engineering and research projects.
+### 🎯 Academic Goal
+Developing knowledge and research skills in next-generation wireless communication technologies.
 
-## 📚 Research Focus
-
-**Artificial Intelligence + Machine Learning + Smart Electrical Grids**
-
-## 🤝 Collaboration
-
-Interested in academic research, engineering projects, and collaboration in AI-driven energy systems and smart grid technologies.
-
-Thanks for visiting my profile! ⚡
