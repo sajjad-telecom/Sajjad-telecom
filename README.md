@@ -42,3 +42,13 @@ Developing knowledge and research skills in next-generation wireless communicati
 ## 📡 Research Focus
 
 AI and Machine Learning applications in next-generation wireless communication systems.
+## 📊 GitHub Statistics
+
+![Sajjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajjad-telecom&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjad-telecom&layout=compact&theme=tokyonight)
+
+---
+*Always learning, researching, and exploring new technologies.*
